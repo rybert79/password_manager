@@ -12,7 +12,7 @@ Simple password manager built with Python using Fernet encryption.
 ## 🚀 How to use
 1. Run the script:
    ```bash
-   python cryp.py
+   python password_manager.py
    ```
 2. Do not lose your key
    password_manager ignored for security
